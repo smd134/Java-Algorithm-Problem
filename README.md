@@ -5,7 +5,8 @@ I almost implemented it but I got runtime error because I think I exceeded memor
 
 I put the question below :
 
-* time limit : 1000ms    memory limit : 65535KB
+* time limit : 1000ms
+* memory limit : 65535KB
 
 #Question
 
@@ -26,16 +27,22 @@ misspelled word is the input word with the indicated character deleted.
 #Input Example
 ---------------
 4
+
 4 MISSPELL
+
 1 PROGRAMMING
+
 7 CONTEST
+
 3 BALLOON
----------------
+
 
 #Output Example
 ---------------
 1 MISPELL
+
 2 ROGRAMMING
+
 3 CONTES
+
 4 BALOON
----------------
